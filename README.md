@@ -6,7 +6,7 @@ Small, working prototypes of how AI and automation can fix real problems in indu
 
 Each case study follows the same format: **problem → inputs → approach → results → takeaway**, with runnable code and tests.
 
-> All data is synthetic. Nothing here comes from, or describes, any specific company's systems.
+> **Personal project.** Built on my own time with my own equipment. All data is synthetic and generated in code. Nothing here comes from, describes, or is affiliated with any employer or company, and no confidential or proprietary information is used.
 
 ## Case studies
 
@@ -27,4 +27,4 @@ python -m pytest
 
 ## About
 
-Built by [Kia Pousti](https://github.com/kpousti), a software developer in industrial IT in San Diego exploring applied AI.
+Built by [Kia Pousti](https://github.com/kpousti), a software developer in San Diego exploring applied AI. Views and code here are my own.
