@@ -16,6 +16,7 @@ Each case study follows the same format: **problem → inputs → approach → r
 | [002](case-studies/002-it-ticket-triage) | Routing IT tickets to the right support queue | Keyword rules, TF-IDF + logistic regression, confidence threshold | ✅ |
 | [003](case-studies/003-asset-deduplication) | Finding duplicate devices across asset inventories | Blocking, similarity features, logistic regression, union-find | ✅ |
 | [005](case-studies/005-log-anomaly-detection) | Spotting server incidents in plain-text logs | Log templating, PCA reconstruction error, unseen-template rule | ✅ |
+| [006](case-studies/006-cusum-drift-detection) | Catching slow equipment drift early | Load-corrected residuals, CUSUM, threshold calibration on healthy machines | ✅ |
 
 ## Run any case study
 
